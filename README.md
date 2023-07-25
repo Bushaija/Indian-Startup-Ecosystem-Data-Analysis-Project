@@ -1,4 +1,4 @@
-# India Startup Funding Analysis
+# India Startup Funding Analysi
 The Project analyses Funding Received by Start-ups in India from years 2018 - 2021.
 
 ## Summary
