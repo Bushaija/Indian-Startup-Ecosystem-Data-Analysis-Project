@@ -1,0 +1,19 @@
+# Database and Environment handling
+pyodbc
+python-dotenv
+
+# Analysis libraries
+pandas
+numpy
+scikit-learn
+fuzzywuzzy
+scipy
+scikit-posthocs
+
+# Visualization libraries
+matplotlib
+seaborn
+prettytable
+
+# others
+openpyxl
